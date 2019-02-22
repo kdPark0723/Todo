@@ -17,6 +17,7 @@
  - 게임엔진 아키텍처
  - Head first Java 
  - 컴퓨터 구조 및 설계
+ - 밑바닥부터 시작하는 딥러닝
 ## 할 것
  - Effective C++
  - Effective Modern C++
